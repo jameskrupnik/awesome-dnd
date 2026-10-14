@@ -120,6 +120,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 * [Monsters by Challenge Rating 1.0](https://media.wizards.com/2014/downloads/dnd/MM_MonstersCR.pdf)
 * [Monsters by Type 1.0](https://media.wizards.com/2015/downloads/dnd/DnD_MonstersByType_1.0.pdf)
 * [Improved Initiative](https://improvedinitiative.app/)
+* [Online Initiative Tracker](https://illuminationdevelopment.com/tools/initiative-tracker) - Free browser combat tracker for fifth-edition-compatible games: turn order, hit points, conditions with round counts and death saves, saved in the browser.
 * [Medieval Fantasy City Generator](https://watabou.itch.io/medieval-fantasy-city-generator) - This application generates a random medieval city layout of a requested size.
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Generate fantasy world maps with ease.
 
