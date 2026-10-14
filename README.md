@@ -28,6 +28,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
     - [Character Manager](#character-manager)
     - [Spells](#spells)
     - [Encounter Builder](#encounter-builder)
+    - [Combat Tracker](#combat-tracker)
 - [Audio and Music](#audio-and-music)
 - [Developer Tools](#developer-tools)
 - [Discord Bots](#discord-bots)
@@ -273,6 +274,12 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 *Encounter and campaign building*
 
 * [eRPG Tools Plus](https://play.google.com/store/apps/details?id=com.mentiromano.erpgtoolsplus) - ![Android][android]
+
+## Combat Tracker
+
+*Run the fight at the table*
+
+* [Initiative Tracker: DM Tools](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.initiativetracker) - ![Android][android] Free combat tracker for fifth-edition-compatible games: initiative order, hit points with temp HP and undo, conditions with durations, death saves, and SRD 5.1/5.2 monster stat blocks. Works offline
 
 # Audio and Music
 
