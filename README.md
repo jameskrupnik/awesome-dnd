@@ -280,7 +280,7 @@ Everything here is either system agnostic or D&D 5E unless otherwise specified.
 
 *Run the fight at the table*
 
-* [Initiative Tracker: DM Tools](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.initiativetracker) - ![Android][android] Free combat tracker for fifth-edition-compatible games: initiative order, hit points with temp HP and undo, conditions with durations, death saves, and SRD 5.1/5.2 monster stat blocks. Works offline
+* [Initiative Tracker: DM Tools](https://play.google.com/store/apps/details?id=com.illuminationdevelopment.initiativetracker) - ![Android][android] ![Apple][apple] Free combat tracker for fifth-edition-compatible games: initiative order, hit points with temp HP and undo, conditions with durations, death saves, and SRD 5.1/5.2 monster stat blocks. Works offline. Also on the [App Store](https://apps.apple.com/us/app/initiative-tracker-dm-tools/id6822963357).
 
 # Audio and Music
 
